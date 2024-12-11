@@ -106,5 +106,3 @@ This project successfully achieves the following:
 
 **Strong/Sizhi Chen**
 
-*CS 5001, Fall 2024*
-
