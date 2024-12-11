@@ -17,6 +17,10 @@ This project provides a comprehensive solution for analyzing business and invent
 3. **Data Visualization:**
    - Generates bar plots, scatter plots, and heatmaps for insightful analysis.
    - Customizable themes enhance the visualization aesthetics.
+![image](https://github.com/user-attachments/assets/2664577a-b053-4046-93c2-01a20ace1ffc)
+![image](https://github.com/user-attachments/assets/c8d3d56a-4ba2-4482-8fc1-e801e35d7f3e)
+![image](https://github.com/user-attachments/assets/78cf9b44-23e1-40c1-915e-9156c29fb5e3)
+![image](https://github.com/user-attachments/assets/32f556ba-4ec0-491b-ab1c-ae087dbcd46a)
 
 4. **Interactive GUI:**
    - A Tkinter-based application for exploring business and inventory data.
